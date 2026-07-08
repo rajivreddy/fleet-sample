@@ -1,0 +1,5 @@
+defaultNamespace: nginx
+helm:
+  releaseName: nginx
+  valuesFiles:
+    - values.yaml
