@@ -1,0 +1,17 @@
+v1:
+  enabled: true
+  image:
+    repository: nginx
+    tag: ""
+
+v2:
+  enabled: true
+  image:
+    repository: nginx
+    tag: ""
+
+v3:
+  enabled: true
+  image:
+    repository: nginx
+    tag: ""
