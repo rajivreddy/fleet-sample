@@ -11,7 +11,7 @@ v2:
     tag: ""
 
 v3:
-  enabled: true
+  enabled: false
   image:
     repository: nginx
     tag: ""
